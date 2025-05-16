@@ -1,16 +1,42 @@
-**Hey I'm Maria 👩🏻‍💻**
+# **Hey, I'm Maria! 👩🏻‍💻**
 
-- currently working as an intern at Apple in Seattle
-- previosuly worked at Honeywell in atlanta as SWE
-- Rising senior at the University of Notre Dame
-- completed a year long research with Professor Santos in the S2E lab where I explored LLM software security
-- upon return, I will join Professor Teaho Jung (privacy and security lab) where I will work alongside Intel and Univeristy of Georgia on a Web3 decentralized medical stargety startup.
+Passionate about software engineering, cybersecurity, and creating tech that empowers communities.
 
-**This Months Focus**
-- currebtly bukding a webpage using django and react that will simulate a college campus market place with full stack abilities implemented REST API's, SQLite database and implementing a client server architecture.
-- practiing leetcode for the upcmojing fall recruyitment season
-- preparing for my senior year and working with a strong focus on databses and cybesecurity. 
+---
 
+## 🔨 **Current Role**
+- 🏙️ Interning at **Apple** in Seattle as a Software Engineer
+- 💻 Previously interned at **Honeywell** in Atlanta as a Software Engineer
 
-![image](https://github.com/user-attachments/assets/9600540d-c437-4877-878e-2b3578041708)
+---
+
+## 🎓 **Education**
+- 🎓 Rising senior at the **University of Notre Dame**
+- 🧪 Conducted a year-long research project with **Professor Santos** in the **S2E Lab**, focusing on LLMs and software security
+- 🔒 Upon return, I will join **Professor Taejo Jung’s Privacy & Security Lab**, working with **Intel** and the **University of Georgia** on a **Web3 decentralized medical strategy startup**
+
+---
+
+## 🗓️ **This Month's Focus**
+- 👩🏻‍💻 Learning Go and SQL
+- 🌐 Building a **full-stack college campus marketplace** using **Django + React**  
+  - Features include: REST APIs, SQLite database, and client-server architecture
+- 🧠 Practicing **LeetCode** for upcoming fall recruitment season
+
+---
+
+## 🚀 **Tech Stack**
+![Django](https://img.shields.io/badge/Backend-Django-092E20?logo=django&logoColor=white)
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=white)
+![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/Language-C-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/Language-C++-00599C?logo=cpp&logoColor=white)
+![Go](https://img.shields.io/badge/Language-Go-00ADD8?logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/Query-SQL-4479A1?logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Tool-Git-F05032?logo=git&logoColor=white)
+
+---
+
 
