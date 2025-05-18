@@ -1,27 +1,27 @@
-**Hey, I'm Maria! 👩🏻‍💻**
+## **Hey, I'm Maria! 👩🏻‍💻**
 
 Passionate about software engineering, cybersecurity, and creating tech that empowers communities.
 
 
-🔨 **Current Role**
+## 🔨 **Current Role**
 - 🏙️ Interning at **Apple** in Seattle as a Software Engineer
 - 💻 Previously interned at **Honeywell** in Atlanta as a Software Engineer
 
 
-🎓 **Education**
+## 🎓 **Education**
 - 🎓 Rising senior at the **University of Notre Dame**
 - 🧪 Conducted a year-long research project with **Professor Santos** in the **S2E Lab**, focusing on LLMs and software security
 - 🔒 Upon return, I will join **Professor Taejo Jung’s Privacy & Security Lab**, working with **Intel** and the **University of Georgia** on a **Web3 decentralized medical strategy startup**
 
 
-🗓️ **This Month's Focus**
+## 🗓️ **This Month's Focus**
 - 👩🏻‍💻 Learning Go and SQL
 - 🌐 Building a **full-stack college campus marketplace** using **Django + React**  
   - Features include: REST APIs, SQLite database, and client-server architecture
 - 🧠 Practicing **LeetCode** for upcoming fall recruitment season
 
 
-🚀 **Tech Stack**
+## 🚀 **Tech Stack**
 ![Django](https://img.shields.io/badge/Backend-Django-092E20?logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?logo=sqlite&logoColor=white)
