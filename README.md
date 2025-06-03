@@ -16,7 +16,9 @@ Passionate about software engineering, cybersecurity, and creating tech that emp
 
 ## **This Month's Focus**
 - 👩🏻‍💻 Learning Native-Cloud Infrastructure, Docker, Kubernetes and GoLang
-- 🌐 Building a **full-stack college campus marketplace** using **Django + React**  
+- 🦊 Building GopherPad_ --> a secret-vault way to securely store important secret-notes
+  - Features Include: PostgresSQL, GoLang, JWT authentication + access , Docker, SplunkLogging
+- 🌐 Building UniMart --> a **full-stack college campus marketplace** using **Django + React**  
   - Features include: REST APIs, SQLite database, and client-server architecture
 - 🧠 Practicing **LeetCode** for upcoming fall recruitment season
 
