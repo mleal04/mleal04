@@ -4,23 +4,22 @@ Passionate about software engineering, cybersecurity, and creating tech that emp
 
 
 ## **Current Role**
-- 🏙️ Interning at **Apple** in Seattle as a Security Software Engineer
-- 💻 Previously interned at **Honeywell** in Atlanta as a Software Engineer
+- Currently interning @**Tweeds** as a backend security software engineer and conduting research @ **[Privacy and Security Lab](https://www.web3db.org/)** 
+- 🏙️ Prev @**Apple** in Seattle as a Security Software Engineer
+- 💻 Prev @**Honeywell** in Atlanta as a Software Engineer
 
 
 ## **Education**
-- 🎓 Rising senior at the **University of Notre Dame**
+- 🎓 Senior at the **University of Notre Dame**
 - 👩🏻‍💻 Conducted a year-long research project with **Professor Santos** in the **S2E Lab**, focusing on LLMs and software security
 - 🔒 Upon return, I will join **Professor Taejo Jung’s Privacy & Security Lab**, working with **Intel** and the **University of Georgia** on a **Web3 decentralized medical strategy startup**
 
 
 ## **This Month's Focus**
-- 👩🏻‍💻 Learning Native-Cloud Infrastructure, Docker, Kubernetes and GoLang
-- 🦊 Building GopherPad_ --> a secret-vault way to securely store important secret-notes
-  - Features Include: PostgresSQL, GoLang, JWT authentication + access , Docker, SplunkLogging
-- 🌐 Building UniMart --> a **full-stack college campus marketplace** using **Django + React**  
-  - Features include: REST APIs, SQLite database, and client-server architecture
-- 🧠 Practicing **LeetCode** for upcoming fall recruitment season
+- 👩🏻‍💻 Applying Native-Cloud Infrastructure, Security and DevOps practices to Tweeds
+- 🦊 Taking Databases, Algorithms and Security & Privacy classes
+- 🌐 Building a Gateway API simulator with Go and Postgress to practice system Design
+- 🧠 Practicing **LeetCode** for upcoming full time interviews
 
 
 ## 🚀 **Tech Stack**
