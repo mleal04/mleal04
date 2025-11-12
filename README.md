@@ -19,7 +19,7 @@ Passionate about software engineering, cybersecurity, and creating tech that emp
 - 👩🏻‍💻 Applying Native-Cloud Infrastructure, Security and DevOps practices to Tweeds
 - 🦊 Taking Databases, Algorithms and Security & Privacy classes
 - 🌐 Building a Gateway API simulator with Go and Postgress to practice system Design
-- 🧠 Practicing **LeetCode** for upcoming full time interviews
+- 🧠 Practicing **LeetCode** for upcoming full time or internship interviews
 
 
 ## 🚀 **Tech Stack**
