@@ -4,7 +4,7 @@ Passionate about software engineering, cybersecurity, and creating tech that emp
 
 
 ## **Current Role**
-- Currently interning @**Tweeds** as a backend security software engineer and conduting research @ **[Privacy and Security Lab](https://www.web3db.org/)** 
+- Currently conduting research @ **[Privacy and Security Lab](https://www.web3db.org/)** 
 - 🏙️ Prev @**Apple** in Seattle as a Security Software Engineer
 - 💻 Prev @**Honeywell** in Atlanta as a Software Engineer
 
@@ -16,9 +16,9 @@ Passionate about software engineering, cybersecurity, and creating tech that emp
 
 
 ## **This Month's Focus**
-- 👩🏻‍💻 Applying Native-Cloud Infrastructure, Security and DevOps practices to Tweeds
-- 🦊 Taking Databases, Algorithms and Security & Privacy classes
-- 🌐 Building a Gateway API simulator with Go and Postgress to practice system Design
+- 👩🏻‍💻 Applying Native-Cloud Infrastructure, Security and DevOps practices to Prof. Taeho's Lab.
+- 🦊 Taking Databases, Algorithms and Security & Privacy classes.
+- 🌐 Building a Gateway API simulator with Go and Postgress to practice system Design.
 - 🧠 Practicing **LeetCode** for upcoming full time or internship interviews
 
 
