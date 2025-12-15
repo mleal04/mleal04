@@ -1,6 +1,6 @@
 ## **Hey, I'm Maria! 👩🏻‍💻**
 
-Passionate about software engineering, cybersecurity, and creating tech that empowers communities.
+Passionate about software engineering, distributed systems, networks infra and creating tech that empowers communities.
 
 
 ## **Current Role**
@@ -11,8 +11,9 @@ Passionate about software engineering, cybersecurity, and creating tech that emp
 
 ## **Education**
 - 🎓 Senior at the **University of Notre Dame**
+- Going to Grad School and interning this summer with 🙂 ...
 - 👩🏻‍💻 Conducted a year-long research project with **Professor Santos** in the **S2E Lab**, focusing on LLMs and software security
-- 🔒 Upon return, I will join **Professor Taejo Jung’s Privacy & Security Lab**, working with **Intel** and the **University of Georgia** on a **Web3 decentralized medical strategy startup**
+- 🔒 Also conducting research with **Professor Taejo Jung’s Privacy & Security Lab**, working with **Intel** and the **University of Georgia** on a **Web3 decentralized medical strategy startup**
 
 
 ## **This Month's Focus**
