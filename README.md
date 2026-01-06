@@ -10,17 +10,16 @@ Passionate about software engineering, distributed systems, networks infra and c
 
 
 ## **Education**
+- After Graduation, I will be heading to Seattle to work with Apple with FaceTime!
 - 🎓 Senior at the **University of Notre Dame**
-- Going to Grad School and interning this summer with 🙂 ...
 - 👩🏻‍💻 Conducted a year-long research project with **Professor Santos** in the **S2E Lab**, focusing on LLMs and software security
-- 🔒 Also conducting research with **Professor Taejo Jung’s Privacy & Security Lab**, working with **Intel** and the **University of Georgia** on a **Web3 decentralized medical strategy startup**
+- 🔒 Also conducting research with **Professor Taejo Jung’s ** **[Privacy and Security Lab](https://www.web3db.org/)**  working with **Intel** and the **University of Georgia** on a **Web3 decentralized medical strategy startup**
 
 
 ## **This Month's Focus**
 - 👩🏻‍💻 Applying Native-Cloud Infrastructure, Security and DevOps practices to Prof. Taeho's Lab.
 - 🦊 Taking Databases, Algorithms and Security & Privacy classes.
 - 🌐 Building a Gateway API simulator with Go and Postgress to practice system Design.
-- 🧠 Practicing **LeetCode** for upcoming full time or internship interviews
 
 
 ## 🚀 **Tech Stack**
