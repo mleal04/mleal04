@@ -4,7 +4,7 @@ Passionate about software engineering, distributed systems, networks infra and c
 
 
 ## **Current Role**
-- Currently conduting research @ **[Privacy and Security Lab](https://www.web3db.org/)** 
+- Currently researching Cloud Security and Writing my own pdf summary! 
 - 🏙️ Prev @**Apple** in Seattle as a Security Software Engineer
 - 💻 Prev @**Honeywell** in Atlanta as a Software Engineer
 
@@ -12,7 +12,7 @@ Passionate about software engineering, distributed systems, networks infra and c
 ## **Education**
 - 🎓 Senior at the **University of Notre Dame**
 - 👩🏻‍💻 Conducted a year-long research project with **Professor Santos** in the **S2E Lab**, focusing on LLMs and software security
-- 🔒 Also conducting research with **Professor Taejo Jung’s ** **[Privacy and Security Lab](https://www.web3db.org/)**  working with **Intel** and the **University of Georgia** on a **Web3 decentralized medical strategy startup**
+- 🔒 Conducted research with **Professor Taejo Jung’s ** **[Privacy and Security Lab](https://www.web3db.org/)**  working with **Intel** and the **University of Georgia** on a **Web3 decentralized medical strategy startup**
 
 
 ## **This Month's Focus**
