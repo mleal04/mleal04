@@ -1,11 +1,11 @@
 ## **Hey, I'm Maria! 👩🏻‍💻**
 
-I'm passionate about building distributed systems, working with networks infrastructure and system design.
+I'm passionate about building distributed systems 🌐, working with networks infrastructure and Security.
 
 
 ## **Current Role**
-- Currently explanding my knowledge of Cloud Security and building Ephemeral Private Inference Gateway!
-- I will be joining Apple in Seattle in July to work full time with Private Cloud Compute closely with Apple Sillicon woohoo!!
+- Currently explanding my knowledge of Cloud Security and building Ephemeral Private Inference Gateway 🔐!
+- I will be joining Apple in Seattle in July to work full time with Private Cloud Compute and work on inference routing woohoooo!!
 - 🏙️ Prev @**Apple** in Seattle as a Security Software Engineer
 - 💻 Prev @**Honeywell** in Atlanta as a Software Engineer
 
