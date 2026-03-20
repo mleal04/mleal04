@@ -4,7 +4,7 @@ I'm passionate about building distributed systems 🌐, working with networks in
 
 
 ## **Current Role**
-- Currently explanding my knowledge of Cloud Security and building Ephemeral Private Inference Gateway 🔐!
+- Currently expanding my knowledge of Cloud Security and building Ephemeral Private Inference Gateway 🔐!
 - I will be joining Apple in Seattle in July to work full time with Private Cloud Compute and work on inference routing woohoooo!!
 - 🏙️ Prev @**Apple** in Seattle as a Security Software Engineer
 - 💻 Prev @**Honeywell** in Atlanta as a Software Engineer
