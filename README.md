@@ -18,7 +18,7 @@ I'm passionate about building distributed systems 🌐, working with networks in
 
 ## **This Month's Focus**
 - 👩🏻‍💻 Expanding my knowledge on system design and services scalability.
-- Building a Ephemeral Private Inference Gateway in C / Python / Swift / Java
+- Building a Ephemeral Private Inference Gateway in C / Python / Swift 
 
 
 ## 🚀 **Tech Stack**
